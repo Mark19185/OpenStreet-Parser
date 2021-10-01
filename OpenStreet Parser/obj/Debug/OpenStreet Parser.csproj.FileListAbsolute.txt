@@ -1,0 +1,12 @@
+C:\Users\Mark\source\repos\OpenStreet Parser\OpenStreet Parser\bin\Debug\OpenStreet Parser.exe.config
+C:\Users\Mark\source\repos\OpenStreet Parser\OpenStreet Parser\bin\Debug\OpenStreet Parser.exe
+C:\Users\Mark\source\repos\OpenStreet Parser\OpenStreet Parser\bin\Debug\OpenStreet Parser.pdb
+C:\Users\Mark\source\repos\OpenStreet Parser\OpenStreet Parser\bin\Debug\Leaf.xNet.dll
+C:\Users\Mark\source\repos\OpenStreet Parser\OpenStreet Parser\bin\Debug\Leaf.xNet.xml
+C:\Users\Mark\source\repos\OpenStreet Parser\OpenStreet Parser\obj\Debug\OpenStreet Parser.csproj.AssemblyReference.cache
+C:\Users\Mark\source\repos\OpenStreet Parser\OpenStreet Parser\obj\Debug\OpenStreet Parser.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\OpenStreet Parser\OpenStreet Parser\obj\Debug\OpenStreet Parser.csproj.CopyComplete
+C:\Users\Mark\source\repos\OpenStreet Parser\OpenStreet Parser\obj\Debug\OpenStreet Parser.exe
+C:\Users\Mark\source\repos\OpenStreet Parser\OpenStreet Parser\obj\Debug\OpenStreet Parser.pdb
+C:\Users\Mark\source\repos\OpenStreet Parser\OpenStreet Parser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mark\source\repos\OpenStreet Parser\OpenStreet Parser\bin\Debug\Newtonsoft.Json.xml
