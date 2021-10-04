@@ -52,7 +52,8 @@ namespace OpenStreet_Parser.Models
         }
         public Service(string site, string file)
         {
-
+            Path = site;
+            FilePath = file;
         }
         public Service(string site, string file, int _step)
         {
